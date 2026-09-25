@@ -71,5 +71,5 @@ def main():
     print(f" вероятность {p:.6f} ({p*100:.4f} %)")
     print("=" * 60)
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
